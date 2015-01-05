@@ -30,10 +30,10 @@ comment_provider: duoshuo
 
 # Duoshuo comment
 duoshuo:
-  short_name: your_id
+  short_name: ravanave
 
 social:
-  github: https://github.com/your_id
+  github: https://github.com/jhirniak
   weibo: http://weibo.com/your_id
   google_plus: 
 
