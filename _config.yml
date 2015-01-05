@@ -7,7 +7,7 @@ widgets:
 
 cover:
   enable: true
-  url: source/backgrounds/pegazy.jpg
+  url: public/backgrounds/pegazy.jpg
    
 excerpt_link: Read More
 
